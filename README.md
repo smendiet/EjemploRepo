@@ -1,3 +1,3 @@
 # Ejemplo
 
-Esto es un ejemplos
+Esto es un ejemplo
