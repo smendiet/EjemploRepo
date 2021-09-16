@@ -1,3 +1,3 @@
 # Ejemplo
 
-Esto es un ejemplo
+Esto es un ejemplo de cambios que se pueden realizar
